@@ -30,6 +30,7 @@ class Book {
         return "Author: " + author + "\n"
              + "Title: " + title + "\n"
              + "Year Published: " + yearPublished + "\n"
-             + "Price: $" + price;
+             + "Price: $" + price
+             + "\n";
     }
 }
