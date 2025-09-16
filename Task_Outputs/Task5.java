@@ -30,7 +30,7 @@ public class Task5 {
             System.out.println("All numbers are equal");
         } else {
             System.out.println("The largest number is:" + largest);
-
+            scanner.close();
         }
     }
 }
