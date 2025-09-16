@@ -1,4 +1,4 @@
-package Task_Outputs
+package Task_Outputs;
 import java.util.Scanner;
 
 public class Task8 {
