@@ -1,3 +1,4 @@
+package Task_Outputs;
 class Point {
     private double x;
     private double y;
